@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="rom-gnboorse",  # Replace with your own username
+    name="rom",  # Replace with your own username
     version="0.0.1",
     author="Gabriel Boorse",
     author_email="gnboorse@gmail.com",
