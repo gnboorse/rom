@@ -1,6 +1,14 @@
 # rom
 
-This is a basic roman numeral parser written in Python.
+This is a basic Roman numeral manipulation library written in Python.
+
+It is capable of parsing Arabic numerals into Roman numerals, as well as generating Roman numerals from Arabic numerals.
+
+## Installation
+
+```sh
+pip3 install gnboorse-rom
+```
 
 ## Usage
 
