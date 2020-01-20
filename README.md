@@ -1,6 +1,6 @@
 # rom
 
-![PyPI](https://img.shields.io/pypi/v/gnboorse-rom)
+[![PyPI](https://img.shields.io/pypi/v/gnboorse-rom)](https://pypi.org/project/gnboorse-rom/)
 
 This is a basic Roman numeral manipulation library written in Python.
 
