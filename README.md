@@ -1,5 +1,7 @@
 # rom
 
+![PyPI](https://img.shields.io/pypi/v/gnboorse-rom)
+
 This is a basic Roman numeral manipulation library written in Python.
 
 It is capable of parsing Arabic numerals into Roman numerals, as well as generating Roman numerals from Arabic numerals.
